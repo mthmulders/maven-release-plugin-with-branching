@@ -4,12 +4,11 @@
 
     <groupId>it.mulders</groupId>
     <artifactId>release-experiments</artifactId>
-    <version>0.4.0</version>
+    <version>0.5.0-SNAPSHOT</version>
 
     <scm>
         <connection>scm:git:https://github.com/mthmulders/maven-release-plugin-with-branching.git</connection>
         <developerConnection>scm:git:https://github.com/mthmulders/maven-release-plugin-with-branching.git</developerConnection>
-    <tag>release-0.4.0</tag>
   </scm>
 
     <properties>
