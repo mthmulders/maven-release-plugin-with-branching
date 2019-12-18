@@ -6,5 +6,6 @@ public class Stuff {
         // Another feature
         // Another feature
         // Another feature
+        // Another feature
     }
 }
